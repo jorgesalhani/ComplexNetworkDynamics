@@ -5,10 +5,10 @@ Projects from [Dynamical Process on Complex Networks](https://uspdigital.usp.br/
 
 Projects developed in .ipynb files
 
-[Projeto 1](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto1.html)
+[Project 1](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto1.html) - Basic network metrics
 
-[Projeto 2](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto2.html)
+[Project 2](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto2.html) - Centrality and complexity main metrics
 
-[Projeto 3](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto3.html)
+[Project 3](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto3.html) - Erdos-Renyi, Watts-Strogatz and Barabasi-Albert random networks studies
 
-[Projeto 4](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto4.html)
+[Project 4](https://htmlpreview.github.io/?https://github.com/jorgesalhani/ComplexNetworkDynamics/blob/main/ComplexNetProjects/projeto4.html) - Resilience studies and epidemic SIS / SIR models
